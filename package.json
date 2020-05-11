@@ -9,6 +9,15 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "ffi-napi": "^2.5.0",
+    "node-gyp": "^6.1.0",
+    "node-serial": "^0.1.1",
+    "ref-array-di": "^1.2.1",
+    "ref-array-napi": "^1.2.1",
+    "ref-napi": "^2.0.0",
+    "ref-struct-di": "^1.1.0",
+    "ref-struct-napi": "^1.1.1",
+    "serialport": "^8.0.7",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vuex": "^3.1.3"

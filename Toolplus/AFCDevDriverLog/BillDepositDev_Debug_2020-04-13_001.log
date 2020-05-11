@@ -1,0 +1,200 @@
+[18:21:29:760 INFO ]  F:\adll_windows\Ö½±Ò»úÐ¾\BA08\v1.0.1b44_20200113\Toolplus\GRGDTATM_CommCfg.ini
+[18:21:29:762 INFO ]  F:\adll_windows\Ö½±Ò»úÐ¾\BA08\v1.0.1b44_20200113\Toolplus\BillDepositDevCfg.ini
+[18:21:29:771 INFO ]  The BA-08 Dll Version is 1.0.1b44 [20200409]
+[18:21:29:774 INFO ]  The Device Com id is 3
+[18:21:30:125 TRACE]  ->Enter SetCommPara 
+[18:21:30:127 TRACE]  ->Leave SetCommPara( 0)  Result:0
+[18:21:30:187 TRACE]  ->Enter GetCapalities 
+[18:21:30:297 TRACE]  ->Leave GetCapalities( 0)  Result:0
+[18:21:34:510 TRACE]  ->Enter iGetAllRecogniseAbility 
+[18:21:34:587 TRACE]  DenominationCode =  d14
+[18:21:37:826 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[18:21:37:830 TRACE]  DenominationCode =  d16
+[18:21:37:838 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[18:21:37:840 TRACE]  DenominationCode =  d17
+[18:21:37:849 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[18:21:37:851 TRACE]  DenominationCode =  d19
+[18:21:37:859 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[18:21:37:861 TRACE]  DenominationCode =  d1a
+[18:21:37:870 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[18:21:37:872 TRACE]  DenominationCode =  d2c
+[18:21:37:880 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[18:21:37:883 TRACE]  DenominationCode =  d2a
+[18:21:37:891 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[18:21:37:893 TRACE]  DenominationCode =  d29
+[18:21:37:902 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[18:21:37:904 TRACE]  DenominationCode =  d39
+[18:21:37:913 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[18:21:37:921 TRACE]  DenominationCode =  d3a
+[18:21:37:923 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[18:21:37:932 TRACE]  DenominationCode =  d3c
+[18:21:37:934 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[18:21:37:940 TRACE]  DenominationCode =  d18
+[18:21:37:942 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[18:21:37:948 TRACE]  DenominationCode =  d1b
+[18:21:37:949 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[18:21:37:955 TRACE]  ->Leave iGetAllRecogniseAbility( 0)  Result:0,Currency:RUB Deno:10,Currency:RUB Deno:50,Currency:RUB Deno:100,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:1000,Currency:RUB Deno:500,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:200,Currency:RUB Deno:2000
+[18:21:37:960 TRACE]  ->Enter iGetAllRecogniseNum 
+[18:21:38:031 TRACE]  ->Leave iGetAllRecogniseNum( 0)  Result:0, Num:13
+[18:22:05:871 TRACE]  ->Enter iGetAllRecogniseAbility 
+[18:22:09:944 TRACE]  DenominationCode =  d14
+[18:22:09:947 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[18:23:15:581 TRACE]  DenominationCode =  d16
+[18:23:48:322 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[18:24:06:749 TRACE]  DenominationCode =  d17
+[18:24:06:752 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[18:24:11:654 TRACE]  DenominationCode =  d19
+[18:24:11:657 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[18:24:11:664 TRACE]  DenominationCode =  d1a
+[18:24:11:666 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[18:24:11:674 TRACE]  DenominationCode =  d2c
+[18:24:11:681 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[18:24:11:683 TRACE]  DenominationCode =  d2a
+[18:24:11:691 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[18:24:11:693 TRACE]  DenominationCode =  d29
+[18:24:11:700 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[18:24:11:707 TRACE]  DenominationCode =  d39
+[18:24:11:710 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[18:24:11:717 TRACE]  DenominationCode =  d3a
+[18:24:11:719 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[18:24:11:727 TRACE]  DenominationCode =  d3c
+[18:24:11:729 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[18:24:11:736 TRACE]  DenominationCode =  d18
+[18:24:11:739 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[18:24:11:745 TRACE]  DenominationCode =  d1b
+[18:24:11:748 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[18:24:11:756 TRACE]  ->Leave iGetAllRecogniseAbility( 0)  Result:0,Currency:RUB Deno:10,Currency:RUB Deno:50,Currency:RUB Deno:100,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:1000,Currency:RUB Deno:500,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:200,Currency:RUB Deno:2000
+[18:24:11:763 TRACE]  ->Enter iGetAllRecogniseNum 
+[18:24:11:831 TRACE]  ->Leave iGetAllRecogniseNum( 0)  Result:0, Num:13
+[18:24:17:952 TRACE]  ->Enter iCloseComm 
+[18:24:18:046 TRACE]  ->Leave iCloseComm( 0)  Result:0
+[18:27:19:310 INFO ]  F:\adll_windows\Ö½±Ò»úÐ¾\BA08\v1.0.1b44_20200113\Toolplus\GRGDTATM_CommCfg.ini
+[18:27:19:312 INFO ]  F:\adll_windows\Ö½±Ò»úÐ¾\BA08\v1.0.1b44_20200113\Toolplus\BillDepositDevCfg.ini
+[18:27:19:319 INFO ]  The BA-08 Dll Version is 1.0.1b44 [20200409]
+[18:27:19:321 INFO ]  The Device Com id is 3
+[18:27:19:664 TRACE]  ->Enter SetCommPara 
+[18:27:19:667 TRACE]  ->Leave SetCommPara( 0)  Result:0
+[18:27:19:725 TRACE]  ->Enter GetCapalities 
+[18:27:19:825 TRACE]  ->Leave GetCapalities( 0)  Result:0
+[18:27:22:494 TRACE]  ->Enter iGetAllRecogniseAbility 
+[18:27:22:599 TRACE]  DenominationCode =  d14
+[18:27:22:601 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[18:27:22:608 TRACE]  DenominationCode =  d16
+[18:27:22:610 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[18:27:22:618 TRACE]  DenominationCode =  d17
+[18:27:22:620 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[18:27:22:627 TRACE]  DenominationCode =  d19
+[18:27:22:630 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[18:27:22:637 TRACE]  DenominationCode =  d1a
+[18:27:22:639 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[18:27:22:646 TRACE]  DenominationCode =  d2c
+[18:27:22:648 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[18:27:22:656 TRACE]  DenominationCode =  d2a
+[18:27:22:658 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[18:27:22:665 TRACE]  DenominationCode =  d29
+[18:27:22:668 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[18:27:22:675 TRACE]  DenominationCode =  d39
+[18:27:22:682 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[18:27:22:685 TRACE]  DenominationCode =  d3a
+[18:27:22:692 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[18:27:22:694 TRACE]  DenominationCode =  d3c
+[18:27:22:701 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[18:27:22:703 TRACE]  DenominationCode =  d18
+[18:27:22:711 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[18:27:22:713 TRACE]  DenominationCode =  d1b
+[18:27:22:720 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[18:27:22:727 TRACE]  ->Leave iGetAllRecogniseAbility( 0)  Result:0,Currency:RUB Deno:10,Currency:RUB Deno:50,Currency:RUB Deno:100,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:1000,Currency:RUB Deno:500,Currency:RUB Deno:500,Currency:RUB Deno:1000,Currency:RUB Deno:5000,Currency:RUB Deno:200,Currency:RUB Deno:2000
+[18:27:22:735 TRACE]  ->Enter iGetAllRecogniseNum 
+[18:27:22:806 TRACE]  ->Leave iGetAllRecogniseNum( 0)  Result:0, Num:13
+[18:27:27:933 TRACE]  ->Enter GetRecogniseAbility 
+[18:27:28:569 TRACE]  DenominationCode =  d1b
+[18:27:28:571 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[18:27:28:579 TRACE]  DenominationCode =  d18
+[18:27:28:581 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[18:27:28:588 TRACE]  DenominationCode =  d3c
+[18:27:28:590 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[18:27:28:598 TRACE]  DenominationCode =  d3a
+[18:27:28:605 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[18:27:28:607 TRACE]  DenominationCode =  d39
+[18:27:28:615 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[18:27:28:622 TRACE]  DenominationCode =  d29
+[18:27:28:624 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[18:27:28:632 TRACE]  DenominationCode =  d2a
+[18:27:28:634 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[18:27:28:641 TRACE]  DenominationCode =  d2c
+[18:27:28:644 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[18:27:28:651 TRACE]  DenominationCode =  d1a
+[18:27:28:653 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[18:27:28:660 TRACE]  DenominationCode =  d19
+[18:27:28:663 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[18:27:28:666 TRACE]  DenominationCode =  d17
+[18:27:28:668 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[18:27:28:673 TRACE]  DenominationCode =  d16
+[18:27:28:675 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[18:27:28:679 TRACE]  DenominationCode =  d14
+[18:27:28:681 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[18:27:28:686 TRACE]  1: lDenomCode:3355 acCurrency:RUB lDenomination:2000 cSerial:A
+[18:27:28:687 TRACE]  2: lDenomCode:3352 acCurrency:RUB lDenomination:200 cSerial:A
+[18:27:28:692 TRACE]  3: lDenomCode:3388 acCurrency:RUB lDenomination:5000 cSerial:C
+[18:27:28:697 TRACE]  4: lDenomCode:3386 acCurrency:RUB lDenomination:1000 cSerial:C
+[18:27:28:698 TRACE]  5: lDenomCode:3385 acCurrency:RUB lDenomination:500 cSerial:C
+[18:27:28:703 TRACE]  6: lDenomCode:3369 acCurrency:RUB lDenomination:500 cSerial:B
+[18:27:28:705 TRACE]  7: lDenomCode:3370 acCurrency:RUB lDenomination:1000 cSerial:B
+[18:27:28:709 TRACE]  8: lDenomCode:3372 acCurrency:RUB lDenomination:5000 cSerial:B
+[18:27:28:711 TRACE]  9: lDenomCode:3354 acCurrency:RUB lDenomination:1000 cSerial:A
+[18:27:28:716 TRACE]  10: lDenomCode:3353 acCurrency:RUB lDenomination:500 cSerial:A
+[18:27:28:723 TRACE]  11: lDenomCode:3351 acCurrency:RUB lDenomination:100 cSerial:A
+[18:27:28:732 TRACE]  12: lDenomCode:3350 acCurrency:RUB lDenomination:50 cSerial:A
+[18:27:28:734 TRACE]  13: lDenomCode:3348 acCurrency:RUB lDenomination:10 cSerial:A
+[18:27:28:739 TRACE]  ->Leave GetRecogniseAbility( 0)  Result:0  Num:13
+[18:27:30:258 TRACE]  ->Enter GetRecogniseNum 
+[18:27:30:390 TRACE]  ->Leave GetRecogniseNum( 0)  Result:0  Num:13
+[18:27:34:991 TRACE]  ->Enter GetRecogniseAbility 
+[18:27:35:122 TRACE]  DenominationCode =  d1b
+[18:27:35:123 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[18:27:35:127 TRACE]  DenominationCode =  d18
+[18:27:35:128 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[18:27:35:132 TRACE]  DenominationCode =  d3c
+[18:27:35:133 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[18:27:35:136 TRACE]  DenominationCode =  d3a
+[18:27:35:138 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[18:27:35:141 TRACE]  DenominationCode =  d39
+[18:27:35:142 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[18:27:35:146 TRACE]  DenominationCode =  d29
+[18:27:35:147 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[18:27:35:150 TRACE]  DenominationCode =  d2a
+[18:27:35:152 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[18:27:35:155 TRACE]  DenominationCode =  d2c
+[18:27:35:157 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[18:27:35:160 TRACE]  DenominationCode =  d1a
+[18:27:35:162 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[18:27:35:165 TRACE]  DenominationCode =  d19
+[18:27:35:166 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[18:27:35:169 TRACE]  DenominationCode =  d17
+[18:27:35:171 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[18:27:35:175 TRACE]  DenominationCode =  d16
+[18:27:35:177 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[18:27:35:181 TRACE]  DenominationCode =  d14
+[18:27:35:183 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[18:27:35:189 TRACE]  1: lDenomCode:3355 acCurrency:RUB lDenomination:2000 cSerial:A
+[18:27:35:190 TRACE]  2: lDenomCode:3352 acCurrency:RUB lDenomination:200 cSerial:A
+[18:27:35:197 TRACE]  3: lDenomCode:3388 acCurrency:RUB lDenomination:5000 cSerial:C
+[18:27:35:198 TRACE]  4: lDenomCode:3386 acCurrency:RUB lDenomination:1000 cSerial:C
+[18:27:35:203 TRACE]  5: lDenomCode:3385 acCurrency:RUB lDenomination:500 cSerial:C
+[18:27:35:208 TRACE]  6: lDenomCode:3369 acCurrency:RUB lDenomination:500 cSerial:B
+[18:27:35:210 TRACE]  7: lDenomCode:3370 acCurrency:RUB lDenomination:1000 cSerial:B
+[18:27:35:215 TRACE]  8: lDenomCode:3372 acCurrency:RUB lDenomination:5000 cSerial:B
+[18:27:35:217 TRACE]  9: lDenomCode:3354 acCurrency:RUB lDenomination:1000 cSerial:A
+[18:27:35:222 TRACE]  10: lDenomCode:3353 acCurrency:RUB lDenomination:500 cSerial:A
+[18:27:35:224 TRACE]  11: lDenomCode:3351 acCurrency:RUB lDenomination:100 cSerial:A
+[18:27:35:230 TRACE]  12: lDenomCode:3350 acCurrency:RUB lDenomination:50 cSerial:A
+[18:27:35:231 TRACE]  13: lDenomCode:3348 acCurrency:RUB lDenomination:10 cSerial:A
+[18:27:35:237 TRACE]  ->Leave GetRecogniseAbility( 0)  Result:0  Num:13
+[18:27:49:029 TRACE]  ->Enter GetRecogniseNum 
+[18:27:49:164 TRACE]  ->Leave GetRecogniseNum( 0)  Result:0  Num:13
+[18:27:55:180 TRACE]  ->Enter GetStatus 
+[18:27:55:182 INFO ]  cmd A ,l_bRetry = true
+[18:27:55:232 TRACE]  ->Leave GetStatus( 14459)  Result:1 wDevice:0 wCashIn:1 wCashOut:1 wBuffer:2
+ 			wEnableMode:2 wTransport:2 wStacker:2 iStackerCount:0
+[18:27:55:542 TRACE]  ->Enter iCloseComm 
+[18:27:55:633 TRACE]  ->Leave iCloseComm( 0)  Result:0

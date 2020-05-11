@@ -1,0 +1,92 @@
+[09:28:52:054 INFO ]  F:\adll_windows\崕衛字仂\BA08\v1.0.1b44_20200113\Toolplus\GRGDTATM_CommCfg.ini
+[09:28:52:054 INFO ]  F:\adll_windows\崕衛字仂\BA08\v1.0.1b44_20200113\Toolplus\BillDepositDevCfg.ini
+[09:28:52:054 INFO ]  The BA-08 Dll Version is 1.0.1b44 [20200413]
+[09:28:52:054 INFO ]  The Device Com id is 3
+[09:28:56:565 TRACE]  ->Enter SetCommPara 
+[09:28:56:566 TRACE]  ->Leave SetCommPara( 0)  Result:0
+[09:28:56:619 TRACE]  ->Enter GetCapalities 
+[09:29:00:687 TRACE]  ->Leave GetCapalities( 14499)  Result:1
+[09:29:04:392 TRACE]  ->Enter GetRecogniseAbility 
+[09:29:08:464 TRACE]  ->Leave GetRecogniseAbility( 14499)  Result:1  Num:0
+[09:29:10:045 TRACE]  ->Enter GetRecogniseNum 
+[09:29:14:108 TRACE]  ->Leave GetRecogniseNum( 14499)  Result:1  Num:0
+[09:29:47:011 TRACE]  ->Enter GetRecogniseAbility 
+[09:29:47:198 TRACE]  DenominationCode =  d1b
+[09:29:47:198 TRACE]  acCurrency =  RUB, lDenomination = 2000, cSerial = 1
+[09:29:47:198 TRACE]  DenominationCode =  d18
+[09:29:47:213 TRACE]  acCurrency =  RUB, lDenomination = 200, cSerial = 1
+[09:29:47:213 TRACE]  DenominationCode =  d3c
+[09:29:47:213 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 3
+[09:29:47:213 TRACE]  DenominationCode =  d3a
+[09:29:47:229 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 3
+[09:29:47:229 TRACE]  DenominationCode =  d39
+[09:29:47:229 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 3
+[09:29:47:229 TRACE]  DenominationCode =  d29
+[09:29:47:229 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 2
+[09:29:47:229 TRACE]  DenominationCode =  d2a
+[09:29:47:245 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 2
+[09:29:47:245 TRACE]  DenominationCode =  d2c
+[09:29:47:245 TRACE]  acCurrency =  RUB, lDenomination = 5000, cSerial = 2
+[09:29:47:260 TRACE]  DenominationCode =  d1a
+[09:29:47:260 TRACE]  acCurrency =  RUB, lDenomination = 1000, cSerial = 1
+[09:29:47:260 TRACE]  DenominationCode =  d19
+[09:29:47:276 TRACE]  acCurrency =  RUB, lDenomination = 500, cSerial = 1
+[09:29:47:276 TRACE]  DenominationCode =  d17
+[09:29:47:276 TRACE]  acCurrency =  RUB, lDenomination = 100, cSerial = 1
+[09:29:47:276 TRACE]  DenominationCode =  d16
+[09:29:47:292 TRACE]  acCurrency =  RUB, lDenomination = 50, cSerial = 1
+[09:29:47:292 TRACE]  DenominationCode =  d14
+[09:29:47:292 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[09:29:47:307 TRACE]  1: lDenomCode:3355 acCurrency:RUB lDenomination:2000 cSerial:A
+[09:29:47:307 TRACE]  2: lDenomCode:3352 acCurrency:RUB lDenomination:200 cSerial:A
+[09:29:47:307 TRACE]  3: lDenomCode:3388 acCurrency:RUB lDenomination:5000 cSerial:C
+[09:29:47:323 TRACE]  4: lDenomCode:3386 acCurrency:RUB lDenomination:1000 cSerial:C
+[09:29:47:323 TRACE]  5: lDenomCode:3385 acCurrency:RUB lDenomination:500 cSerial:C
+[09:29:47:338 TRACE]  6: lDenomCode:3369 acCurrency:RUB lDenomination:500 cSerial:B
+[09:29:47:338 TRACE]  7: lDenomCode:3370 acCurrency:RUB lDenomination:1000 cSerial:B
+[09:29:47:338 TRACE]  8: lDenomCode:3372 acCurrency:RUB lDenomination:5000 cSerial:B
+[09:29:47:354 TRACE]  9: lDenomCode:3354 acCurrency:RUB lDenomination:1000 cSerial:A
+[09:29:47:354 TRACE]  10: lDenomCode:3353 acCurrency:RUB lDenomination:500 cSerial:A
+[09:29:47:354 TRACE]  11: lDenomCode:3351 acCurrency:RUB lDenomination:100 cSerial:A
+[09:29:47:371 TRACE]  12: lDenomCode:3350 acCurrency:RUB lDenomination:50 cSerial:A
+[09:29:47:371 TRACE]  13: lDenomCode:3348 acCurrency:RUB lDenomination:10 cSerial:A
+[09:29:47:381 TRACE]  ->Leave GetRecogniseAbility( 0)  Result:0  Num:13
+[09:29:47:389 TRACE]  ->Enter GetRecogniseNum 
+[09:29:47:566 TRACE]  ->Leave GetRecogniseNum( 0)  Result:0  Num:13
+[09:31:22:369 TRACE]  ->Enter iSetRecogniseAbility 
+[09:31:22:511 TRACE]  ->Leave iSetRecogniseAbility( 0)  Result:00. C:RUB D:10 S:A; 
+[09:31:52:879 TRACE]  ->Enter iSetRecogniseAbility 
+[09:34:38:487 TRACE]  l_bRetry != true
+[09:34:38:491 TRACE]  ->Leave iSetRecogniseAbility( 14499)  Result:10. C:RUB D:10 S:A; 
+[09:35:17:833 TRACE]  ->Enter GetRecogniseAbility 
+[09:35:17:958 TRACE]  DenominationCode =  d14
+[09:35:17:959 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[09:35:17:961 TRACE]  1: lDenomCode:3348 acCurrency:RUB lDenomination:10 cSerial:A
+[09:35:17:962 TRACE]  ->Leave GetRecogniseAbility( 0)  Result:0  Num:1
+[09:35:17:964 TRACE]  ->Enter GetRecogniseNum 
+[09:35:18:090 TRACE]  ->Leave GetRecogniseNum( 0)  Result:0  Num:1
+[09:35:22:768 TRACE]  ->Enter iSetRecogniseAbility 
+[09:35:28:496 TRACE]  ->Leave iSetRecogniseAbility( 0)  Result:00. C:RUB D:10 S:A; 
+[09:35:30:640 TRACE]  ->Enter GetRecogniseAbility 
+[09:35:30:765 TRACE]  DenominationCode =  d14
+[09:35:30:766 TRACE]  acCurrency =  RUB, lDenomination = 10, cSerial = 1
+[09:35:30:768 TRACE]  1: lDenomCode:3348 acCurrency:RUB lDenomination:10 cSerial:A
+[09:35:30:770 TRACE]  ->Leave GetRecogniseAbility( 0)  Result:0  Num:1
+[09:35:30:773 TRACE]  ->Enter GetRecogniseNum 
+[09:35:30:900 TRACE]  ->Leave GetRecogniseNum( 0)  Result:0  Num:1
+[09:37:21:177 TRACE]  ->Enter iCloseComm 
+[09:37:21:271 TRACE]  ->Leave iCloseComm( 0)  Result:0
+[14:07:28:666 INFO ]  F:\adll_windows\崕衛字仂\BA08\v1.0.1b44_20200113\Toolplus\GRGDTATM_CommCfg.ini
+[14:07:28:668 INFO ]  F:\adll_windows\崕衛字仂\BA08\v1.0.1b44_20200113\Toolplus\BillDepositDevCfg.ini
+[14:07:28:676 INFO ]  The BA-08 Dll Version is 1.0.1b44 [20200413]
+[14:07:28:678 INFO ]  The Device Com id is 3
+[14:07:28:688 TRACE]  ->Enter SetCommPara 
+[14:07:28:693 TRACE]  ->Leave SetCommPara( 14499)  Result:1
+[14:07:28:750 TRACE]  ->Enter GetCapalities 
+[14:07:28:759 TRACE]  E_BA08DEV_SENDDATA_1
+[14:07:28:767 TRACE]  ->Leave GetCapalities( 14496)  Result:1
+[14:07:40:694 TRACE]  ->Enter iSetRecogniseAbility 
+[14:07:55:688 TRACE]  E_BA08DEV_SENDDATA_1
+[14:07:55:695 TRACE]  ->Leave iSetRecogniseAbility( 14496)  Result:1面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面
+[14:09:50:720 TRACE]  ->Enter iCloseComm 
+[14:09:50:724 TRACE]  ->Leave iCloseComm( 0)  Result:0
